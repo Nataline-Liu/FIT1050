@@ -168,7 +168,7 @@ html, body {
       /* centers button */
       text-align: center;
       padding: clamp(7.25rem, 16.82vw, 10.25rem) 1rem clamp(3.75rem, 7.82vw, 6.25rem);
-      background-color: #f7f7f7;
+      background-color: #F0B824;
     }
     #hero .hero-container {
       width: 100%;
